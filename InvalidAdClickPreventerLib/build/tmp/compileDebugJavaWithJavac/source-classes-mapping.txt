@@ -1,0 +1,4 @@
+com/netconnectapps/invalidadclickpreventerlib/BuildConfig.java
+ com.netconnectapps.invalidadclickpreventerlib.BuildConfig
+com/netconnectapps/invalidadclickpreventerlib/PreventInvalidClick.java
+ com.netconnectapps.invalidadclickpreventerlib.PreventInvalidClick
