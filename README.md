@@ -1,4 +1,4 @@
-# Prevent-Invalid-Ad-clicks
+# Prevent Invalid Ad clicks activities
 Prevent invalid Ad clicks in your android app.
 
 Use this library into your project:
