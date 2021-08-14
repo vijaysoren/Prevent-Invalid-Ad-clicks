@@ -21,6 +21,16 @@ Add it in your root build.gradle at the end of repositories:
 	dependencies {
 	        implementation 'com.github.vijaysoren:prevent-invalid-ad-clicks:1.0.0'
 	}
+	
+	
+	
+
+[![](https://jitpack.io/v/vijaysoren/prevent-invalid-ad-clicks.svg)](https://jitpack.io/#vijaysoren/prevent-invalid-ad-clicks)
+
+
+	
+
+
 
 
 
