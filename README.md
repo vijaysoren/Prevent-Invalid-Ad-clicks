@@ -33,4 +33,40 @@ Add it in your root build.gradle at the end of repositories:
 
 
 
+   # Another way to use this library 
 
+    step 1. Clone this project 
+    step 2. Include this project into your project as a library 
+    step 3. Call methods from the library class "Preventer"
+
+  # How to use methods 
+   
+   Write your code this way :
+ 
+   1. In your MainActivity (or before initialization of Ad Networks's SDK) -
+     
+       If(checkIfAdIsBlocked()){
+
+       // if true, do not load SDK
+
+       }else{
+
+       // load SDK
+
+       }
+       
+       Call method registerAdOnClick() as follows -
+
+       
+    Call method in ad events such as
+     1. OnAdClick
+     2. OnAdIsDisplayed
+     3. OnAdIsOpened
+     4. OnAdIsClosed
+       Etc.
+
+
+
+ #Contribution
+    You are welcome to contribute to this project.
+    To contribute fork this project.
