@@ -55,7 +55,7 @@ Add it in your root build.gradle at the end of repositories:
 
        }
        
-       Call method registerAdOnClick() as follows -
+       Call method registerOnAdClick() as follows -
 
        
     Call method in ad events such as
@@ -64,9 +64,10 @@ Add it in your root build.gradle at the end of repositories:
      3. OnAdIsOpened
      4. OnAdIsClosed
        Etc.
+ 
+  Important: close activity or reload after ad is blocked or close the ad
 
 
-
- #Contribution
+ # Contribution
     You are welcome to contribute to this project.
     To contribute fork this project.
