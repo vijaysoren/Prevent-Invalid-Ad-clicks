@@ -49,9 +49,13 @@ Add it in your root build.gradle at the end of repositories:
 
        // if true, do not load SDK
 
+        checkIfAdIsBlocked();
+
+       /* call this method to remove ad blocking */
+
        }else{
 
-       // load SDK
+       //load SDK (initialize MobileAds)
 
        }
        
