@@ -45,7 +45,7 @@ Add it in your root build.gradle at the end of repositories:
  
    1. In your MainActivity (or before initialization of Ad Networks's SDK) -
      
-       If(checkIfAdIsBlocked()){
+       If(isAdBlocked()){
 
        // if true, do not load SDK
 
@@ -66,6 +66,16 @@ Add it in your root build.gradle at the end of repositories:
        Etc.
  
   Important: close activity or reload after ad is blocked or close the ad
+
+  Class Preventer.java
+
+   Public Methods :
+
+    1. checkIfAdIsBlocked()
+
+    2. isAdBlocked()
+
+    3. registerOnAdClick()
 
 
  # Contribution
