@@ -67,7 +67,7 @@ Add it in your root build.gradle at the end of repositories:
  
   Important: close activity or reload after ad is blocked or close the ad
 
-  Class Preventer.java
+  ### Class [Preventer.java](https://github.com/vijaysoren/prevent-invalid-ad-clicks/blob/master/preventer/src/main/java/com/netconnectapps/preventer/Preventer.java)
 
    Public Methods :
 
@@ -80,4 +80,4 @@ Add it in your root build.gradle at the end of repositories:
 
  # Contribution
     You are welcome to contribute to this project.
-    To contribute fork this project.
+    To contribute fork this project. After forking this this project you can edit files and the submit a pull request.
